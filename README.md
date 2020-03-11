@@ -219,13 +219,13 @@ Your submission will be graded according to the following rubric.
 - (3 points): You removed all the TODO comments from all the source files.
 - (3 points): All source files compile cleanly.
 - (3 points): `1-args` passes all of the test cases.
-- (2 points): `1-args` uses a range-based for, and no other kinds of loop.
+- (1 points): `1-args` uses a range-based for, and no other kinds of loop.
 - (3 points): `2-average` passes all of the test cases.
-- (2 points): `2-average` uses a range-based for, and no other kinds of loop.
+- (1 points): `2-average` uses a range-based for, and no other kinds of loop.
 - (3 points): `3-max` passes all of the test cases.
-- (2 points): `3-max` uses a range-based for, and no other kinds of loop.
+- (1 points): `3-max` uses a range-based for, and no other kinds of loop.
 - (3 points): `4-phone` passes all of the test cases.
-- (2 points): `4-phone` uses a range-based for, and no other kinds of loop.
+- (1 points): `4-phone` uses a range-based for, and no other kinds of loop.
 
 # Deadline
 
