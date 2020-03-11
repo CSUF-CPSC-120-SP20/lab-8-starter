@@ -187,6 +187,10 @@ Before moving on, check that your program passes the following test cases:
    ```
    error: your phone number must have exactly 7 digits
    ```
+1. (too many digits) `./a.out 12345678` prints
+   ```
+   error: your phone number must have exactly 7 digits
+   ```
 1. (skips dashes) `./a.out 123-4567` prints
    ```
    phone number: 1234567
@@ -200,12 +204,12 @@ Before moving on, check that your program passes the following test cases:
 
 # Signing Out
 
-When you are done, commit and push all your changes, then delete your local `lab-7-USERNAME` directory.
+When you are done, commit and push all your changes, then delete your local `lab-8-USERNAME` directory.
 
 Then ask your instructor or lab assistant to sign you out. They will check that:
 - The web-view of your GitHub repository reflects your recent commits.
 - Your names are in `CREDITS.txt`.
-- The contents of the three source files look like they would pass all the test cases.
+- The contents of the four source files look like they would pass all the test cases.
 
 # Grade Rubric
 
